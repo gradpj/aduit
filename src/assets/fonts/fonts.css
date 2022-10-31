@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: "PlayfairDisplay-BlackItalic";
+    src: url("./PlayfairDisplay-BlackItalic.ttf");
+}
+
+@font-face {
+    font-family: "PlayfairDisplay-MediumItalic";
+    src: url("./PlayfairDisplay-MediumItalic.ttf");
+}
