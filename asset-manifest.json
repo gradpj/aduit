@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/aduit/static/css/main.1d41f406.css",
-    "main.js": "/aduit/static/js/main.b8f59c51.js",
+    "main.css": "/aduit/static/css/main.7a151e59.css",
+    "main.js": "/aduit/static/js/main.6e174407.js",
     "static/media/watch.jpg": "/aduit/static/media/watch.7223b61fa75f968890a9.jpg",
     "static/media/PlayfairDisplay-MediumItalic.ttf": "/aduit/static/media/PlayfairDisplay-MediumItalic.69c89309175b14e01cc3.ttf",
     "static/media/PlayfairDisplay-BlackItalic.ttf": "/aduit/static/media/PlayfairDisplay-BlackItalic.5e8569cff8a4f802882a.ttf",
     "index.html": "/aduit/index.html",
-    "main.1d41f406.css.map": "/aduit/static/css/main.1d41f406.css.map",
-    "main.b8f59c51.js.map": "/aduit/static/js/main.b8f59c51.js.map"
+    "main.7a151e59.css.map": "/aduit/static/css/main.7a151e59.css.map",
+    "main.6e174407.js.map": "/aduit/static/js/main.6e174407.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d41f406.css",
-    "static/js/main.b8f59c51.js"
+    "static/css/main.7a151e59.css",
+    "static/js/main.6e174407.js"
   ]
 }
