@@ -1,41 +1,54 @@
 @import url("../../assets/fonts/fonts.css");
 
-h1 {
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.titleH1 {
     font-family: 'PlayfairDisplay-BlackItalic';
     font-size: 25vmin;
 }
 
-h2 {
+.titleH2 {
     font-family: 'PlayfairDisplay-MediumItalic';
     font-size: 5vmin;
 }
 
-h1, h2 {
+.titleH1, .titleH2 {
     color: #CACACA;
     text-shadow: 3px 3px 3px #000;
     text-align: center;
     margin: 0;
 }
 
-body {
+.titleBody {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5))
     , url("../../assets/images/watch.jpg");
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
     background-attachment: fixed;
+    
+    margin: 0 auto;
+    padding: 0;
 
     image-rendering: -moz-crisp-edges;
     image-rendering: -o-crisp-edges;
     image-rendering: -webkit-optimize-contrast;
     -ms-interpolation-mode: nearest-neighbor;
     image-rendering: crisp-edges;
+
+    min-height: 100vh;
 }
 
-.wrapper {
+.titleWrapper {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    min-height: 95vh;
+    min-height: 100vh;
+
+    margin: 0 auto;
+    padding: 0;
 }
