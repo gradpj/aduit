@@ -1,4 +1,3 @@
-import Title from 'pages/TitlePage/Title';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App'
